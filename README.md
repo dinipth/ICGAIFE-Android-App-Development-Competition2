@@ -15,5 +15,6 @@ with deaf and mute people around the world and encourage us to learn their langu
 
 PS: We have had certain hiccups in our development. Even with over 400+  data for every sign, some signs are hard to recognize. Thining about updating later but for the timebeing, uploading the files.
 
+The code for Android Studio: https://github.com/dinipth/ISL
 https://drive.google.com/file/d/1EXYjBhku5ipMMqNPHP8qeei5VRIaKs7j/view?usp=drive_link
        
